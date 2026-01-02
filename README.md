@@ -1,4 +1,4 @@
-```markdown
+
 # 🧬 Serotonin Auth API
 
 ![API Version](https://img.shields.io/badge/API-v1.0-blue?style=flat-square)
